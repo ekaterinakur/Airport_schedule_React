@@ -5,7 +5,7 @@
   "keywords": [],
   "author": "Mate Academy",
   "license": "GPL-3.0",
-  "homepage": "https://ekaterinakur.github.io/Airport_schendule_React",
+  "homepage": "https://ekaterinakur.github.io/Airport_schedule_React",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
